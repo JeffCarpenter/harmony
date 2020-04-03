@@ -1,3 +1,3 @@
-Pillow>=4.1.1
+Pillow>=7.1.1
 requests>=2.18.1
-librecaptcha[gtk]>=0.6.0
+-e git+https://github.com/JeffCarpenter/librecaptcha.git@f8b57765d35cf298698e1153dfc92732a26cd7f0#egg=librecaptcha
